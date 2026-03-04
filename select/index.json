@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ヒッチコック (Re-Recording)",
+  "base_artist": "Yorushika",
+  "createdAt": "2026-03-04T09:46:08.458733Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヒッチコック",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/01_ヒッチコック_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヒッチコック",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_ヒッチコック_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ヒッチコック (希区柯克)",
+      "artist": "ヨルシカ (Yorushika)",
+      "has_synced": true,
+      "path": "select/03_ヒッチコック_(希区柯克)_ヨルシカ_(Yorushika).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ヒッチコック",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/04_ヒッチコック_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ヒッチコック",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/05_ヒッチコック_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ヒッチコック (Paused)",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/06_ヒッチコック_(Paused)_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ヒッチコック",
+      "artist": "Yorushika ヨルシカ",
+      "has_synced": true,
+      "path": "select/07_ヒッチコック_Yorushika_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ヒッチコック - Hitchcock",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/08_ヒッチコック_-_Hitchcock_Yorushika.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヒッチコック",
+      "artist": "Yorushika",
+      "has_synced": false,
+      "path": "select/pl_01_ヒッチコック_Yorushika.txt"
+    }
+  ]
+}
