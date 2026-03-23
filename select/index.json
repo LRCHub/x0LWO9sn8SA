@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "ヒッチコック (Re-Recording)",
-  "base_artist": "Yorushika",
-  "createdAt": "2026-03-04T09:46:08.458733Z",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2026-03-23T17:47:47.998280Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -63,18 +63,34 @@
     {
       "id": "lrclib_8",
       "source": "lrclib",
+      "title": "ヒッチコック (Re-Recording)",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/08_ヒッチコック_(Re-Recording)_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ヒッチコック (Re-Recording)",
+      "artist": "Yorushika",
+      "has_synced": false,
+      "path": "select/09_ヒッチコック_(Re-Recording)_Yorushika.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
       "title": "ヒッチコック - Hitchcock",
       "artist": "Yorushika",
       "has_synced": true,
-      "path": "select/08_ヒッチコック_-_Hitchcock_Yorushika.lrc"
+      "path": "select/10_ヒッチコック_-_Hitchcock_Yorushika.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "ヒッチコック",
-      "artist": "Yorushika",
+      "artist": "ヨルシカ",
       "has_synced": false,
-      "path": "select/pl_01_ヒッチコック_Yorushika.txt"
+      "path": "select/pl_01_ヒッチコック_ヨルシカ.txt"
     }
   ]
 }
