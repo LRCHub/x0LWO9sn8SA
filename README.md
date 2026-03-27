@@ -1,4 +1,4 @@
-# ヨルシカ – ヒッチコック (Re-Recording)
+# Yorushika – ヒッチコック (Re-Recording) - Hitchcock (Re-Recording)
 
 > **歌詞登録ステータス：同期歌詞あり**
 
